@@ -16,7 +16,7 @@ server.listen(port, function() { console.log('listening on port: '+port)});
 
 var allowed_keys = {
 	"plmplmplm":{
-		allowed_hosts:["localhost:3000","flirting.chat","www.flirting.chat"]
+		allowed_hosts:["localhost:2000","flirting.chat","www.flirting.chat"]
 	}
 }
 var default_connection = io.use(function(socket,next){
