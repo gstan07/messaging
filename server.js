@@ -10,20 +10,20 @@ var io = require('socket.io')(server,{
 });
 
 var port = process.env.PORT;
+// var port = 3000;
 
 app.use('/', express.static(__dirname + '/public'));
 server.listen(port, function() { console.log('listening on port: '+port)});
 
 var allowed_keys = {
 	"plmplmplm":{
-		allowed_hosts:["localhost:2000","flirting.chat","www.flirting.chat"]
+		allowed_hosts:["http://localhost:2000","http://flirting.chat","http://www.flirting.chat"]
 	}
 }
 var default_connection = io.use(function(socket,next){
 	var handshake = socket.handshake.query;
-	var host = socket.handshake.headers.host;
+	var host = socket.handshake.headers.origin;
 	var client_key = handshake.app_key;
-	console.log(host,client_key);
 	var handshake_error = "";
 	if(allowed_keys[client_key].allowed_hosts.indexOf(host) == -1){
 		handshake_error = "invalid app key";		
