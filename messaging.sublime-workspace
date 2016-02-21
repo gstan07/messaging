@@ -1,0 +1,671 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"hand",
+				"handshake_error"
+			],
+			[
+				"all",
+				"allowed_keys"
+			],
+			[
+				"dom",
+				"domImage"
+			],
+			[
+				"preve",
+				"preventDefault"
+			],
+			[
+				"start",
+				"startchat"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"enab",
+				"enableBots"
+			],
+			[
+				"inp",
+				"input"
+			],
+			[
+				"max",
+				"message_max_length"
+			],
+			[
+				"inpu",
+				"inputmaxlength"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"me",
+				"metadata"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"th",
+				"thumbnail_width"
+			],
+			[
+				"pri",
+				"private_header"
+			],
+			[
+				"send",
+				"sendBtn"
+			],
+			[
+				"file",
+				"filedialogtrigger"
+			],
+			[
+				"rende",
+				"renderTemplate"
+			],
+			[
+				"valid",
+				"validFile"
+			],
+			[
+				"valida",
+				"validateLocalFile"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"messa",
+				"message"
+			],
+			[
+				"is",
+				"isSupported"
+			],
+			[
+				"priva",
+				"private_window"
+			],
+			[
+				"isty",
+				"istyping"
+			],
+			[
+				"partner",
+				"partner_avatar_url"
+			],
+			[
+				"ist",
+				"istyping"
+			],
+			[
+				"private",
+				"privatewindow"
+			],
+			[
+				"save",
+				"savedstate"
+			],
+			[
+				"ma",
+				"main_channel_name"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"render",
+				"renderTemplate"
+			],
+			[
+				"chat",
+				"chat_container"
+			],
+			[
+				"ani",
+				"animate"
+			],
+			[
+				"main",
+				"main_header"
+			],
+			[
+				"submi",
+				"submitHandler"
+			],
+			[
+				"ke",
+				"keyCode"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"ty",
+				"typeChecker"
+			],
+			[
+				"gee",
+				"getPrivateChannelName"
+			],
+			[
+				"lea",
+				"leaveLine"
+			],
+			[
+				"le",
+				"leaveLine"
+			],
+			[
+				"user",
+				"userline"
+			],
+			[
+				"ge",
+				"getPrivateChannelName"
+			],
+			[
+				"upda",
+				"updatePrivateChatWindow"
+			],
+			[
+				"de",
+				"default_history_limit"
+			],
+			[
+				"par",
+				"partner_uuid"
+			],
+			[
+				"us",
+				"userstate"
+			],
+			[
+				"private_ca",
+				"private_chat_channel"
+			],
+			[
+				"invi",
+				"invitation"
+			],
+			[
+				"gene",
+				"getPrivateChannelName"
+			],
+			[
+				"subsc",
+				"subscribeToPrivateChatChannel"
+			],
+			[
+				"data",
+				"data-livestamp"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"ope",
+				"openPrivateChatWindow"
+			],
+			[
+				"ne",
+				"newPrivateChatLine"
+			],
+			[
+				"pr",
+				"private_channel"
+			],
+			[
+				"in",
+				"invitation"
+			],
+			[
+				"data-",
+				"data-private-channel"
+			],
+			[
+				"private_",
+				"private_room_container"
+			],
+			[
+				"dis",
+				"discussion_container"
+			],
+			[
+				"invita",
+				"invitation_message"
+			],
+			[
+				"open",
+				"openPrivateChat"
+			],
+			[
+				"u",
+				"username2"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"admin",
+				"adminBroadcast"
+			],
+			[
+				"get",
+				"getTime"
+			],
+			[
+				"shw",
+				"show_history_on_load"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"new",
+				"newUserLine"
+			],
+			[
+				"users",
+				"userstate"
+			],
+			[
+				"cha",
+				"channel"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"app",
+				"appendTo"
+			],
+			[
+				"fcs",
+				"fcschat"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"co",
+				"config"
+			],
+			[
+				"pu",
+				"pubnub_subscribe_key"
+			],
+			[
+				"pub",
+				"pubnub_publish_key"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gestan/Dropbox (Personal)/pwrk/realtime.chat/.env",
+		"/Users/gestan/Dropbox (Personal)/pwrk/realtime.chat/Procfile",
+		"/Users/gestan/Dropbox (Personal)/pwrk/realtime.chat/newrelic.js",
+		"/Users/gestan/Desktop/accmgmt.pause.plans",
+		"/Users/gestan/Dropbox (Personal)/pwrk/realtime.chat/public/scripts/messaging.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/realtime.chat/.gitignore",
+		"/Users/gestan/Dropbox (Personal)/pwrk/realtime.chat/realtimechat.sublime-workspace",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.chat/js/fcs.chat.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/realtime.chat/package.json",
+		"/Users/gestan/Dropbox (Personal)/pwrk/realtime.chat/public/scripts/bots.json",
+		"/Users/gestan/Dropbox (Personal)/pwrk/realtime.chat/public/scripts/libs/sanitize.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/realtime.chat/public/scripts/libs/notify.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/realtime.chat/server.js",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.public.galleries/fcs_public_gallery.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.ipb.integration/fcs.ipb.integration.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.chat/css/fcs.chat.css",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.live/live.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.chat/chat.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.chat/css/fcs.chat.less",
+		"/Users/gestan/Library/Application Support/Sublime Text 2/Packages/Less2Css/less2css.sublime-settings",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/wp-content/plugins/fcs.views/view.php",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/sftp-config.json",
+		"/Users/gestan/Dropbox (Personal)/pwrk/fcswp/fcsforum.sublime-workspace"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"io(",
+			".avatar",
+			"parsehi",
+			"redis",
+			"newre",
+			"anal",
+			"leave",
+			"signou",
+			"image_tn_w",
+			"chatline",
+			"image:",
+			"joined",
+			"clien",
+			"clienti",
+			"continue",
+			"cookie",
+			"clientid",
+			"duplicate",
+			"duplicate user",
+			"duplica",
+			"spinner",
+			"darke",
+			"spinner",
+			"analy",
+			"spinner",
+			"uib",
+			"bind",
+			"form",
+			".avatar",
+			"startchat",
+			"startcha",
+			"validate",
+			"sendmessa",
+			"openprivate",
+			"analy",
+			"form",
+			"updateusers",
+			"enableb",
+			"updateusers",
+			"enableb",
+			"updateuser",
+			"getuser",
+			"text",
+			"footer",
+			"1/3",
+			"footer",
+			"renderte",
+			"footer",
+			"button",
+			"valid ",
+			"handlepr",
+			"openpri",
+			".url",
+			"thumbna",
+			"pushin",
+			"input",
+			"sayit",
+			"sayi",
+			"\"seen\"",
+			"sendseene",
+			"seen",
+			"openpriva",
+			"parseh",
+			".image",
+			"handlepri",
+			"pushinlo",
+			"push",
+			"handlepri",
+			".say",
+			"box",
+			"my",
+			".mys",
+			".my",
+			"mysha",
+			"box-",
+			"button",
+			"preview",
+			"priva",
+			"imagepre",
+			"renderte",
+			"footer",
+			".row",
+			"p{",
+			"input",
+			"startc",
+			"grey1",
+			"color",
+			"validate",
+			"phone",
+			"redis",
+			"h1",
+			"font-fa",
+			"notify",
+			"handlepriva",
+			"parse.",
+			"console.lo",
+			"handlepriva",
+			"\"state",
+			"nobody",
+			"\"usersta",
+			"string",
+			"isty",
+			"saveds",
+			"monito",
+			"saveds",
+			"monit",
+			"setsta",
+			"isty",
+			"setsta",
+			"handlee",
+			"state",
+			"setsta",
+			"(content)",
+			"keyup",
+			"bind",
+			"typin",
+			"input",
+			"joined_cha",
+			"\"userstate",
+			"userstate",
+			"state",
+			"submitha",
+			"startcha",
+			"spinner",
+			"spinner.",
+			"spinner",
+			"updateusers",
+			"join"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"env",
+				".env"
+			],
+			[
+				"messa",
+				"public/scripts/messaging.js"
+			],
+			[
+				"newre",
+				"newrelic.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"server",
+				"server.js"
+			],
+			[
+				"serve",
+				"server.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true
+}
