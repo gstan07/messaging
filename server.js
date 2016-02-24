@@ -18,7 +18,7 @@ server.listen(port, function() { console.log('listening on port: '+port)});
 var allowed_keys = {
 	"fcsfcsfcs":{
 		allowed_hosts:["http://localhost:2000","http://fcsteaua.ro","http://www.fcsteaua.ro"]
-	}
+	},
 	"plmplmplm":{
 		allowed_hosts:["http://localhost:2000","http://flirting.chat","http://www.flirting.chat"]
 	}
