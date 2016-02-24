@@ -8,7 +8,7 @@ exports.config = {
   /**
    * Array of application names.
    */
-  app_name: ['flirtingchat'],
+  app_name: ['freepubsub'],
   /**
    * Your New Relic license key.
    */
