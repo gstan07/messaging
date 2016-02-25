@@ -40,9 +40,11 @@ var default_connection = io.use(function(socket,next){
 //opening a global connection
 default_connection.once('connection', function(socket){
 	//switching to specific namespace
+	console.log("connected to general namespace")
 	var nsp = io.of("/"+socket.handshake.query.app_key);
-
+	console.log("attempting connection to:"+socket.handshake.query.app_key);
 	nsp.on("connection",function(socket){
+		console.log("connected to "+socket.handshake.query.app_key+" namespace")
 		socket.on("subscribe",function(data,callback){
 			//joining room
 			try{
