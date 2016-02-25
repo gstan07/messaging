@@ -2,8 +2,6 @@
 var messaging = {
 	init:function(opts){
 			messaging.openSocket(opts);	
-		
-		
 	},
 	openSocket:function(opts){
 		this["socket"] = io("https://freepubsub.herokuapp.com/"+opts.app_key,{transports:['websocket'], query: "app_key="+opts.app_key});

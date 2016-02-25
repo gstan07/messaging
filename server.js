@@ -32,10 +32,8 @@ var default_connection = io.use(function(socket,next){
 		handshake_error = "invalid app key";		
 	}
 	if(handshake_error == ""){
-		console.log("host allowed "+host);
 		next();
 	}else{
-		console.log("host not allowed "+host);
 		next(new Error(handshake_error));	
 	}	
 });
