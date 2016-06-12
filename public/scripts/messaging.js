@@ -4,7 +4,8 @@ var messaging = {
 			messaging.openSocket(opts);	
 	},
 	openSocket:function(opts){
-		this["socket"] = io("https://freepubsub.herokuapp.com/"+opts.app_key,{transports:['websocket'], query: "app_key="+opts.app_key});
+		// this["socket"] = io("https://freepubsub.herokuapp.com/"+opts.app_key,{transports:['websocket'], query: "app_key="+opts.app_key});
+		this["socket"] = io("https://freepubsub.herokuapp.com/plmplmplm");
 	},
 	subscribeToChannel:function(subscription){
 		subscription = {
