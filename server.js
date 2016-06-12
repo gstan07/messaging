@@ -24,18 +24,18 @@ var allowed_keys = {
 	}
 }
 var default_connection = io.use(function(socket,next){
-	// var handshake = socket.handshake.query;
-	// var host = socket.handshake.headers.origin;
-	// var client_key = handshake.app_key;
-	// var handshake_error = "";
-	// // if(allowed_keys[client_key].allowed_hosts.indexOf(host) == -1){
-	// // 	handshake_error = "invalid app key";		
-	// // }
-	// if(handshake_error == ""){
-	// 	next();
-	// }else{
-	// 	next(new Error(handshake_error));	
-	// }	
+	var handshake = socket.handshake.query;
+	var host = socket.handshake.headers.origin;
+	var client_key = handshake.app_key;
+	var handshake_error = "";
+	if(allowed_keys[client_key].allowed_hosts.indexOf(host) == -1){
+		handshake_error = "invalid app key";		
+	}
+	if(handshake_error == ""){
+		next();
+	}else{
+		next(new Error(handshake_error));	
+	}	
 	next();
 });
 //opening a global connection
